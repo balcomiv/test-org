@@ -82,3 +82,9 @@ Run `nx dep-graph` to see a diagram of the dependencies of your projects.
 ## Further help
 
 Visit the [Nx Documentation](https://nx.dev/angular) to learn more.
+
+## App Tutorial
+- https://nx.dev/angular/tutorial/01-create-application
+
+## Cypress && Storybook
+- https://blog.nrwl.io/ui-testing-with-storybook-and-nx-4b86975224c
