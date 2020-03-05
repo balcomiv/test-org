@@ -23,6 +23,13 @@
     },
     "data": {
       "tags": []
+    },
+    "ui-e2e": {
+      "tags": [],
+      "implicitDependencies": ["ui"]
+    },
+    "shared-ui": {
+      "tags": []
     }
   }
 }
