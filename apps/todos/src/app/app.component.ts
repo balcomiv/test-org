@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Todo } from '@test-org/data'
 
 @Component({
   selector: 'test-org-root',
@@ -7,4 +8,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'todos';
+  todos: Todo[] = [];
+
+  addTodo() {
+    console.log('Adding Todo!');
+  }
 }

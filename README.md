@@ -88,6 +88,7 @@ Visit the [Nx Documentation](https://nx.dev/angular) to learn more.
 - https://nx.dev/angular/tutorial/01-create-application
 
 ## Cypress && Storybook
+- https://blog.nrwl.io/storybook-support-run-many-command-ui-improvements-and-more-in-nx-8-8-90575cb5dda4
 
 - https://blog.nrwl.io/ui-testing-with-storybook-and-nx-4b86975224c
 - https://github.com/nrwl/nx/issues/2090
